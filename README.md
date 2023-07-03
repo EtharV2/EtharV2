@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jakub
+- 👋 Hi, my name is Jakub
 - 👀 I’m interested in personal growth and creating a lifestyle to inspire
 - 🌱 Currently learning JavaScript to become Front-end developer
 - 💞️ Looking to collaborate with people with dreams. I respect people who work on themselves and don't run away from seemingly impossible goals. 
