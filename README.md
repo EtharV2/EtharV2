@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EtharV2
 - 👀 I’m interested in personal growth and creating a lifestyle to inspire
 - 🌱 I’m currently learning JavaScript to become Front-end developer
-- 💞️ I’m looking to collaborate with people witch have dreams. I respect people who work on themselves and don't run away from seemingly impossible goals. 
+- 💞️ I’m looking to collaborate with people with dreams. I respect people who work on themselves and don't run away from seemingly impossible goals. 
 - 📫 How to reach me IG: /jakubdockalek, e-mail: jdockalek@gmail.com
 
 <!---
